@@ -1,7 +1,7 @@
 /**存放目标excel表格目录路径 */
 const EXCEL_PATH = "./src/excel/";
 /**目标excel 文件名  */
-const EXCEL_FILE_NAME = "2D麻将消除.xlsx";
+const EXCEL_FILE_NAME = "xxx.xlsx";
 /**表单序号 */
 const EXCEL_SHEET_INDEX = 1;
 
