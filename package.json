@@ -1,0 +1,25 @@
+{
+  "name": "font_minify_tool",
+  "version": "0.0.1",
+  "description": "A tool for minifying the size of ttf files base on characters appearing in excel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sleepy-Ling",
+  "license": "ISC",
+  "dependencies": {
+    "fontmin": "^0.9.9",
+    "gulp-rename": "^2.0.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.0/xlsx-0.20.0.tgz"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sleepy-Ling/Font_Minify_Tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sleepy-Ling/Font_Minify_Tool/issues"
+  },
+  "homepage": "https://github.com/Sleepy-Ling/Font_Minify_Tool#readme"
+}
